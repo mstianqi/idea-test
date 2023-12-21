@@ -10,5 +10,6 @@ public class gitTest {
         System.out.println("hot");
         System.out.println("push test");
         System.out.println("ssh test");
+        System.out.println("pull test");
     }
 }
